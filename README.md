@@ -6,7 +6,7 @@
 
 A Equipe Parahybaja é formada por alunos dos cursos de Engenharias, Arte e Mídia, Comunicação Social, Física, Matemática e Design, a fim de desenvolver um veículo offroad. 
 
-O projeto Baja é uma oportunidade de aplicar na prática o que se aprende na sala de aula. Sendo assim, nossa equipe tem por objetivo final preparar um profissional para o mercado de trabalho, aprendendo a lidar com pressão, prazos e orçamentos e a trabalhar em grupo, além de desenvolver habilidades de liderança e programação. 
+O projeto Baja é uma oportunidade de colocar em prática o que se aprende na sala de aula. Nossa equipe tem por objetivo final preparar um profissional para o mercado de trabalho, aprendendo a lidar com pressão, prazos e orçamentos e a trabalhar em grupo, além de desenvolver habilidades de liderança e programação. 
 
 
 
@@ -14,8 +14,7 @@ O projeto Baja é uma oportunidade de aplicar na prática o que se aprende na sa
 
 
 
-
-- Universidade Federal de Campina Grande - UFCG - DEM - CCT - Fundada em 1998 
+_Universidade Federal de Campina Grande - UFCG - DEM - CCT - Fundada em 1998_ 
 
 
 
