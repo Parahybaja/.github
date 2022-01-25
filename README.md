@@ -15,6 +15,34 @@ O projeto Baja é uma oportunidade de colocar em prática o que se aprende na sa
 
 _Universidade Federal de Campina Grande - UFCG - DEM - CCT - Fundada em 1998_ 
 
+
+### Premiações
+
+| ANO | COMPETIÇÃO | CLASSIFICAÇÃO |
+| ------ | ------ | ------ |
+| 1999 | 5ª Competição Baja SAE Brasil | 48º Lugar entre 61 equipes |
+| 2000 | 6ª Competição Baja SAE Brasil | 22º e 26º Lugar entre 63 equipes (dois carros) |
+| 2001 | 7ª Competição Baja SAE Brasil | 18º Lugar entre 73 equipes |
+| 2002 | 8ª Competição Baja SAE Brasil | 33° Lugar entre 77 equipes |
+| 2010 | 5° Competição Baja SAE Nordeste | 8° Lugar entre 13 equipes  <br> 1° Lugar Aceleração |  
+| 2010 | 16ª Competição Baja SAE Brasil | 36º Lugar entre 66 equipes |
+| 2011 | 6° Competição Baja SAE Nordeste  | 6° Lugar entre 16 equipes <br> 1° Lugar Aceleração <br> 3° Lugar Enduro |  
+| 2011 | 17ª Competição Baja SAE Brasil | 38º Lugar entre 67 equipes |
+| 2012 | 7° Competição Baja SAE Nordeste  | 2° Lugar entre 10 equipes <br> 1° Lugar Tração <br> 2º Enduro |  
+| 2012 | 18ª Competição Baja SAE Brasil | 8° Lugar entre 72 equipes |
+| 2013 | 8° Competição Baja SAE Nordeste  | 3° Lugar entre 11 equipes <br> 1º Enduro |  
+| 2013 | 19ª Competição Baja SAE Brasil | 44° entre 82 equipes |
+| 2014 | 9° Competição Baja SAE Nordeste  | 4° lugar entre 11 equipes <br> 1° Lugar Conforto |  
+| 2014 | 20ª Competição Baja SAE Brasil | 10° Lugar entre 72 equipes |
+| 2015 | 10° Competição Baja SAE Nordeste | 6° Lugar entre 16 equipes <br> 2° Lugar Conforto <br> 2º Enduro |
+| 2016 | 11° Competição Baja SAE Nordeste | 5° Lugar entre 17 equipes <br> 1° Suspension <br> 1° Tração <br> 2° Lugar Enduro |
+| 2017 | 12° Competição Baja SAE Nordeste | 5° Lugar entre 18 equipes <br> 1º Suspension <br> 2° Tração <br> 3° Conforto |
+| 2017 | 23ª Competição Baja SAE Brasil | 27º Lugar entre 88 equipes <br> 2º Tração |
+| 2018 | 13° Competição Baja SAE Nordeste | 2° Lugar entre 17 equipes <br> 1° Tração <br> 1º Manobrabilidade <br> 1° Super prime <br> 2° Conforto <br> 2º Enduro |
+| 2019 | 14º Competição Baja SAE Nordeste | 12º Lugar entre 22 equipes |
+| 2019 | 25° Competição Baja SAE Brasil | 21º Lugar entre 87 equipes <br> 3º Lugar Tração |
+| 2020 | 26ª Competição Baja SAE Brasil | 23º Lugar entre 79 equipes <br> 6º Lugar Enduro |
+
 ### Patrocinadores
 
 
