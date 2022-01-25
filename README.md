@@ -13,8 +13,17 @@ O projeto Baja é uma oportunidade de colocar em prática o que se aprende na sa
 <img src="https://scontent.fcpv2-2.fna.fbcdn.net/v/t1.6435-9/90237051_3392533344096268_7244051515432763392_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=a26aad&_nc_eui2=AeEOMMEndp20DHC_TSykZjJuYTvneD4e4uVhO-d4Ph7i5YqPwZAFP5W3_3TrWn53PHIoWSbcDV5naoTcY9yi8maX&_nc_ohc=U0418bdYC8cAX_sl8iG&tn=zRNYm9uLLvQzPccl&_nc_ht=scontent.fcpv2-2.fna&oh=00_AT9fXF4roFudqi4JCls555WyqetaJWzYYIRDiy9RQUa2XA&oe=620C2A3A" alt="Carro" width="300"/> <img src="https://scontent.fcpv2-2.fna.fbcdn.net/v/t1.6435-9/82886870_3240631709286433_6370779265658519552_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a26aad&_nc_eui2=AeEz3NDxf5R6p8Bgsd_GhF7oRlKUIjg2ZGFGUpQiODZkYWP4u6G6N2ozrmrXSXweC074eVuKW4wMcRnEDVVEycEG&_nc_ohc=WWf6x76Me0UAX9jCEP3&_nc_ht=scontent.fcpv2-2.fna&oh=00_AT9t_h8ecnP551miA3dPq5aGYQtBvcbQGzSH9VvoSc-hnQ&oe=620C7474" alt="Carro" width="300"/> <img src="https://instagram.fcpv2-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/69891177_531456447678768_571126279800874298_n.jpg?_nc_ht=instagram.fcpv2-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=jye2y7WU9Q8AX9ij4Op&edm=AP_V10EBAAAA&ccb=7-4&oh=00_AT_LWv0WHH4NeLSocWHEVmKx1ltMWOB8ThTzuwePiQRiwQ&oe=61EF0FB6&_nc_sid=4f375e" alt="Carro" width="320"/>
 </div>
 
-_Universidade Federal de Campina Grande - UFCG - DEM - CCT - Fundada em 1998_ 
+<div align="center"> Universidade Federal de Campina Grande - UFCG - DEM - CCT - Fundada em 1998 </div>
 
+#### Organização da equipe
+
+A equipe Parahybaja possui várias divisões buscando trabalhar com o máximo de eficiência e organização possível. Sendo organizada da seguinte maneira: 
+
+<div align="center">
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLVbXsc_YyO3jTM62nc5MgoWyVXshE1hoFW82Tu0CBNfJT2O49NUyln1eRLG6KlyW-QomUxek8HlEtO6mtUoxnN0YsQQfwXo2IsKSbj3bzoI_WRu6GP77DKhStQWpi-uN4WfDkBKRHlIoJ597zRDT6vk=w1068-h627-no?authuser=2" alt="Organizaçao" width="600"/> 
+</div>
+
+Embora cada subdivisão trabalhe em um sistema do carro ou gerencie setores da equipe distintos, todas comunicam-se e trabalham como unidade para alcançar o melhor veículo offroad.
 
 ### Premiações
 
