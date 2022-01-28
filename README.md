@@ -54,6 +54,27 @@ Embora cada subdivisão trabalhe em um sistema do carro ou gerencie setores da e
 | 2019 | 25° Competição Baja SAE Brasil | 21º Lugar entre 87 equipes <br> 3º Lugar Tração |
 | 2020 | 26ª Competição Baja SAE Brasil | 23º Lugar entre 79 equipes <br> 6º Lugar Enduro |
 
+### Nós Patrocine
+
+A SAE Brasil promove diversos eventos que atraem de forma crescente a atenção da mídia, sendo ainda, alvo de reportagens em revistas e jornais, além da divulgação promovida pela própria SAE BRASIL em suas revistas e eventos.
+
+Ao apoiar a equipe Parahybaja, sua empresa contribui para o sucesso de uma iniciativa de grande valor para a formação de futuros líderes de nossas industrias, como também promove o reconhecimento da importância que o Projeto Baja SAE tem na capacitação dos mesmos.
+
+| BENEFÍCIO | OURO | PRATA | BRONZE | APOIO |
+| ------ | ------ | ------ | ------ | ------ |
+| SITE OFICIAL <br> DA EQUIPE | Possui | Possui | Possui | Possui |
+| BANNER'S E <br> SLAYER'S | Possui | Possui | Possui | Possui |
+| DIVULGAÇÃO EM <br> REDES SOCIAIS | Possui | Possui | Possui | Possui |
+| LATERAL DO <br> VEÍCULO | Possui | Possui | Possui | ------ |
+| UNIFORME DO <br> PILOTO | Possui | Possui | ------ | ------ |
+| CAMISA OFICIAL <br> DA EQUIPE | Possui | Possui | ------ | ------ |
+| FRENTE DO <br> VEÍCULO | Possui | ------ | ------ | ------ |
+| CAPACETE DO <br> PILOTO | Possui | ------ | ------ | ------ |
+| MINI CURSOS | Possui | ------ | ------ | ------ |
+
+#### PLANO DE PATROCÍNIO  <a href="https://drive.google.com/u/2/uc?id=1bxmxD9ta8DZJhteBp1yFFhETQG6rBJTF&export=download">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uoaW2Gj9-sI5UEYRHXdvMEwlbTIjrZKJw1VsTw3SyKx7ahQzz9EsrdN-TsbL6mcU_Bo&usqp=CAU" alt="Download" width="30"/>  </a>
+
+
 ### Patrocinadores
 
 
@@ -120,6 +141,26 @@ Despite each subdivision works on a car system or manages different team sectors
 | 2019 | 14th Competição Baja SAE Nordeste | 12th place among 22 teams |
 | 2019 | 25th Competição Baja SAE Brasil | 21th place among 87 teams <br> 3rd place Traction |
 | 2020 | 26th Competição Baja SAE Brasil | 23th place among 79 teams <br> 6th place Endurance |
+
+### Sponsor Us
+
+SAE Brasil promotes several events that increasingly attract media attention, being also the target of reports in magazines and newspapers, in addition to the divulgation promoted by SAE BRASIL itself in its magazines and events.
+
+By supporting the Parahybaja team, your company contributes to the success of an initiative of great value for the formation of future leaders of our industries, as well as promoting the recognition of the importance that the Baja SAE Project has in their training.
+
+| BENEFIT | GOLD | SILVER | BRONZE | SUPPORT |
+| ------ | ------ | ------ | ------ | ------ |
+| OFFICIAL TEAM <br> WEBSITE | Have | Have | Have | Have |
+| BANNER'S AND <br> SLAYER'S | Have | Have | Have | Have |
+| DISCLOSURE ON <br> SOCIAL NETWORKS | Have | Have | Have | Have |
+| CAR SIDE | Have | Have | Have | ------ |
+| PILOT UNIFORM | Have | Have | ------ | ------ |
+| OFFICIAL TEAM <br> SHIRT | Have | Have | ------ | ------ |
+| FRONT OF CAR | Have | ------ | ------ | ------ |
+| PILOT HELMET | Have | ------ | ------ | ------ |
+| MINI COURSES | Have | ------ | ------ | ------ |
+
+#### SPONSORSHIP PLAN  <a href="https://drive.google.com/u/2/uc?id=1bxmxD9ta8DZJhteBp1yFFhETQG6rBJTF&export=download">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uoaW2Gj9-sI5UEYRHXdvMEwlbTIjrZKJw1VsTw3SyKx7ahQzz9EsrdN-TsbL6mcU_Bo&usqp=CAU" alt="Download" width="30"/>  </a>
 
 ### Sponsors
 
