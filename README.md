@@ -85,12 +85,6 @@ Ao apoiar a equipe Parahybaja, sua empresa contribui para o sucesso de uma inici
 </p>
 
 
-A Tekbond é a unidade especializada na produção e na importação de produtos adesivos, adesivos instantâneos, selantes, travas químicas, silicones, entre outros. Seus produtos servem para uso doméstico e industrial, atendendo aos mais diversos segmentos do mercado, como o de construção civil, industrial, artesanato, moveleiro, automotivo e de consumo.
-
-Nós da Equipe Parahybaja, temos sempre produtos da Tekbond para resolver nossos problemas
-
-
-
 
 
 ### _Competition Team Baja SAE_ <a name="Start"></a>
@@ -171,5 +165,3 @@ By supporting the Parahybaja team, your company contributes to the success of an
 <img src="https://www.tekbond.com.br/sites/tekbond.com.br/themes/custom/tekbond_v1/images/teckbond/sistema/logo-tekbond-linha-artesanato.svg" alt="TekbondLogo" width="300"/> 
 </p>
 
-
-Tekbond delivers solutions for many industries, ranging from DIY to construction, automotive, and industrial.
