@@ -27,6 +27,8 @@ A equipe Parahybaja possui várias divisões buscando trabalhar com o máximo de
 
 Embora cada subdivisão trabalhe em um sistema do carro ou gerencie setores da equipe distintos, todas comunicam-se e trabalham como unidade para alcançar o melhor veículo offroad.
 
+* Detalhes das subdivisões <a href="https://drive.google.com/u/2/uc?id=1duewFH9A7yE6WEaBLb8GD2-u065czOfV&export=download">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uoaW2Gj9-sI5UEYRHXdvMEwlbTIjrZKJw1VsTw3SyKx7ahQzz9EsrdN-TsbL6mcU_Bo&usqp=CAU" alt="Download" width="30"/>  </a>
+
 ### Premiações
 
 | ANO | COMPETIÇÃO | CLASSIFICAÇÃO |
@@ -78,9 +80,13 @@ Ao apoiar a equipe Parahybaja, sua empresa contribui para o sucesso de uma inici
 | CAPACETE DO <br> PILOTO | Possui | ------ | ------ | ------ |
 | MINI CURSOS | Possui | ------ | ------ | ------ |
 
-#### PLANO DE PATROCÍNIO  <a href="https://drive.google.com/u/2/uc?id=1bxmxD9ta8DZJhteBp1yFFhETQG6rBJTF&export=download">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uoaW2Gj9-sI5UEYRHXdvMEwlbTIjrZKJw1VsTw3SyKx7ahQzz9EsrdN-TsbL6mcU_Bo&usqp=CAU" alt="Download" width="30"/>  </a>
+##### PLANO DE PATROCÍNIO  <a href="https://drive.google.com/u/2/uc?id=1bxmxD9ta8DZJhteBp1yFFhETQG6rBJTF&export=download">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uoaW2Gj9-sI5UEYRHXdvMEwlbTIjrZKJw1VsTw3SyKx7ahQzz9EsrdN-TsbL6mcU_Bo&usqp=CAU" alt="Download" width="30"/>  </a>
 
 <br>
+
+### Faça parte: <a href="https://docs.google.com/forms/d/e/1FAIpQLSctrxmrLygV0YfjVgM85p3ypkagVPY6Xdih4fTVbhVel9JhrA/viewform"> <img src="https://img.shields.io/website?color=red&label=Parahybaja&up_color=blue&url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSctrxmrLygV0YfjVgM85p3ypkagVPY6Xdih4fTVbhVel9JhrA%2Fviewform" alt="Processo Seletivo" width="100"/>  </a>
+
+
 
 ### Patrocinadores
 
@@ -113,6 +119,8 @@ The Parahybaja team has several divisions seeking to work as efficiently and org
 </div>
 
 Despite each subdivision works on a car system or manages different team sectors, they all communicate and work as a unit to achieve the best offroad vehicle.
+
+* Subdivision details <a href="https://drive.google.com/u/2/uc?id=1duewFH9A7yE6WEaBLb8GD2-u065czOfV&export=download">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uoaW2Gj9-sI5UEYRHXdvMEwlbTIjrZKJw1VsTw3SyKx7ahQzz9EsrdN-TsbL6mcU_Bo&usqp=CAU" alt="Download" width="30"/>  </a>
 
 ### Prizes
 
@@ -169,6 +177,8 @@ By supporting the Parahybaja team, your company contributes to the success of an
 #### SPONSORSHIP PLAN  <a href="https://drive.google.com/u/2/uc?id=1bxmxD9ta8DZJhteBp1yFFhETQG6rBJTF&export=download">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uoaW2Gj9-sI5UEYRHXdvMEwlbTIjrZKJw1VsTw3SyKx7ahQzz9EsrdN-TsbL6mcU_Bo&usqp=CAU" alt="Download" width="30"/>  </a>
 
 <br>
+
+### Join us: <a href="https://docs.google.com/forms/d/e/1FAIpQLSctrxmrLygV0YfjVgM85p3ypkagVPY6Xdih4fTVbhVel9JhrA/viewform"> <img src="https://img.shields.io/website?color=red&label=Parahybaja&up_color=blue&url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSctrxmrLygV0YfjVgM85p3ypkagVPY6Xdih4fTVbhVel9JhrA%2Fviewform"  alt="Seletive Process" width="100"/>  </a>
 
 ### Sponsors
 
