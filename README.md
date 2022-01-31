@@ -80,18 +80,17 @@ Ao apoiar a equipe Parahybaja, sua empresa contribui para o sucesso de uma inici
 
 #### PLANO DE PATROCÍNIO  <a href="https://drive.google.com/u/2/uc?id=1bxmxD9ta8DZJhteBp1yFFhETQG6rBJTF&export=download">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uoaW2Gj9-sI5UEYRHXdvMEwlbTIjrZKJw1VsTw3SyKx7ahQzz9EsrdN-TsbL6mcU_Bo&usqp=CAU" alt="Download" width="30"/>  </a>
 
+<br>
 
 ### Patrocinadores
 
+<a href="https://linktr.ee/tekbond"> <img src="https://www.tekbond.com.br/sites/tekbond.com.br/themes/custom/tekbond_v1/images/teckbond/sistema/logo-tekbond-linha-artesanato.svg" alt="LogoTekbond" width="300"/> </a> </h3>
 
-<h3> <b> Tekbond </b> <a href="https://linktr.ee/tekbond"> <img src="https://img.shields.io/website?down_color=black&down_message=links&up_color=blue&up_message=Tekbond&url=https%3A%2F%2Fshields.io" alt="Tekbond" width="120"/> </a> </h3>
-
-<p align="center">
-<img src="https://www.tekbond.com.br/sites/tekbond.com.br/themes/custom/tekbond_v1/images/teckbond/sistema/logo-tekbond-linha-artesanato.svg" alt="LogoTekbond" width="300"/> 
-</p>
-
-
-
+<br> 
+<br> 
+<br>
+<br>
+<br>
 
 ### _Competition Team Baja SAE_ <a name="Start"></a>
 
@@ -169,12 +168,10 @@ By supporting the Parahybaja team, your company contributes to the success of an
 
 #### SPONSORSHIP PLAN  <a href="https://drive.google.com/u/2/uc?id=1bxmxD9ta8DZJhteBp1yFFhETQG6rBJTF&export=download">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uoaW2Gj9-sI5UEYRHXdvMEwlbTIjrZKJw1VsTw3SyKx7ahQzz9EsrdN-TsbL6mcU_Bo&usqp=CAU" alt="Download" width="30"/>  </a>
 
+<br>
+
 ### Sponsors
 
 
-<h3> <b> Tekbond </b> <a href="https://www.tekbond.us"> <img src="https://img.shields.io/website?down_color=black&down_message=links&up_color=blue&up_message=Tekbond&url=https%3A%2F%2Fshields.io" alt="Tekbond" width="120"/> </a> </h3>
-
-<p align="center">
-<img src="https://www.tekbond.com.br/sites/tekbond.com.br/themes/custom/tekbond_v1/images/teckbond/sistema/logo-tekbond-linha-artesanato.svg" alt="TekbondLogo" width="300"/> 
-</p>
+<a href="https://linktr.ee/tekbond"> <img src="https://www.tekbond.com.br/sites/tekbond.com.br/themes/custom/tekbond_v1/images/teckbond/sistema/logo-tekbond-linha-artesanato.svg" alt="LogoTekbond" width="300"/> </a> </h3>
 
