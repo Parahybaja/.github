@@ -62,7 +62,7 @@ Embora cada subdivisão trabalhe em um sistema do carro ou gerencie setores da e
 <img src="https://drive.google.com/uc?id=1ndWVWaNc8HoH_2hbGgQjHUnZr-AL9cKR" alt="1998" width="300"/> <img src="https://drive.google.com/uc?id=1dM1gs3XzZtkXg1K94BdoY_HfCVKICZ8f" alt="1999" width="300"/> <img src="https://drive.google.com/uc?id=1cR18we6ljUq5Bim7Q-AikiLcj28Q3Qt1" alt="2001" width="300"/> <img src="https://drive.google.com/uc?id=1T9fkkAYJmP1iUkqtahF411ol3OZFL5I7" alt="2003" width="300"/> <img src="https://drive.google.com/uc?id=1rs5SYsZNPsW5vxqnziBtNQXK5TFX7X4L" alt="2010" width="300"/> <img src="https://drive.google.com/uc?id=1cboYAIYgaq0_Zo4FokDiVWtuf4rN-2IW" alt="2011" width="300"/> <img src="https://drive.google.com/uc?id=1o6H3Rbg5x4h8qqTjUnipzLvO-0aWXqib" alt="2012" width="300"/> <img src="https://drive.google.com/uc?id=1D-j7SJtMl6ScLddq0ylqREVtC6I9WtJE" alt="2013" width="300"/> <img src="https://drive.google.com/uc?id=1482slTb0VIKzuOf4NutRRFvHpbOEspUb" alt="2014" width="300"/> <img src="https://drive.google.com/uc?id=11flJbgxxgjBfk537Q5X9w9iGmEYHRYyq" alt="2015" width="300"/> <img src="https://drive.google.com/uc?id=19uPFFesCkgqSOOdv2Bi4rTYT2RddYslp" alt="2016" width="300"/> <img src="https://drive.google.com/uc?id=1488EMymSCUlto_xnLB2WP2GlEJ7SVAx8" alt="2017" width="300"/> <img src="https://drive.google.com/uc?id=1nBn-iqeiICrlfQEvk9z7GtolfYTSRvsL" alt="2018" width="300"/> <img src="https://drive.google.com/uc?id=1QQkOudpkBMHPwzkZCO3c5vw7j5x7duBV" alt="2019" width="300"/>
 </div>
 
-### Nós Patrocine
+### Nos Patrocine
 
 A SAE Brasil promove diversos eventos que atraem de forma crescente a atenção da mídia, sendo ainda, alvo de reportagens em revistas e jornais, além da divulgação promovida pela própria SAE BRASIL em suas revistas e eventos.
 
@@ -84,7 +84,7 @@ Ao apoiar a equipe Parahybaja, sua empresa contribui para o sucesso de uma inici
 
 <br>
 
-### Faça parte: <a href="https://docs.google.com/forms/d/e/1FAIpQLSctrxmrLygV0YfjVgM85p3ypkagVPY6Xdih4fTVbhVel9JhrA/viewform"> <img src="https://img.shields.io/website?color=red&label=Parahybaja&up_color=blue&url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSctrxmrLygV0YfjVgM85p3ypkagVPY6Xdih4fTVbhVel9JhrA%2Fviewform" alt="Processo Seletivo" width="100"/>  </a>
+### Faça parte: <a href="https://forms.gle/uxA2tCC4478BsScU7"> <img src="https://img.shields.io/website?color=red&label=Parahybaja&up_color=blue&url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSctrxmrLygV0YfjVgM85p3ypkagVPY6Xdih4fTVbhVel9JhrA%2Fviewform" alt="Processo Seletivo" width="100"/>  </a>
 
 
 
@@ -178,7 +178,7 @@ By supporting Parahybaja team your company can help in the success of an initiat
 
 <br>
 
-### Join us: <a href="https://docs.google.com/forms/d/e/1FAIpQLSctrxmrLygV0YfjVgM85p3ypkagVPY6Xdih4fTVbhVel9JhrA/viewform"> <img src="https://img.shields.io/website?color=red&label=Parahybaja&up_color=blue&url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSctrxmrLygV0YfjVgM85p3ypkagVPY6Xdih4fTVbhVel9JhrA%2Fviewform"  alt="Seletive Process" width="100"/>  </a>
+### Join us: <a href="https://forms.gle/uxA2tCC4478BsScU7"> <img src="https://img.shields.io/website?color=red&label=Parahybaja&up_color=blue&url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSctrxmrLygV0YfjVgM85p3ypkagVPY6Xdih4fTVbhVel9JhrA%2Fviewform"  alt="Seletive Process" width="100"/>  </a>
 
 ### Sponsors
 
