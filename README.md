@@ -2,26 +2,40 @@
     <a href="https://linktr.ee/Parahybaja"> <img src="https://lh3.googleusercontent.com/pw/AM-JKLWMJOKNarJxC220qQw2AsfqEC9UIzbErJbdNUw0lQllnVErUyWcJSs9mpfIIRHg2ywVQwib02JxWfol37vLfjzoVbF8Wka4qqKxPmDzW6IGdoDC4eAyER1R9UoSzbxaK_tZO1aVdcOu7c5T7ipBg1pjVg=w1204-h401-no?authuser=0" alt="Parahybaja" width="400"/> </a>
 </div>
 
-<div align="center">
-    <a href="" style="vertical-align:middle">
-        <img alt="Alcalitech" style="vertical-align:middle" height="40" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-Alcalitech.png?raw=true"/>
-    </a>
-    <a href="" style="vertical-align:middle">
-        <img alt="Altair" style="vertical-align:middle" height="20" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-Altair.png?raw=true"/>
-    </a>
-    <a href="" style="vertical-align:middle">
-        <img alt="LBS" style="vertical-align:middle" height="40" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-LBS.png?raw=true"/>
-    </a>
-    <a href="" style="vertical-align:middle">
-        <img alt="LVI" style="vertical-align:middle" height="80" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-LVI.png?raw=true"/>
-    </a>
-    <a href="" style="vertical-align:middle">
-        <img alt="MetalTech" style="vertical-align:middle" height="60" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-MetalTech.png?raw=true"/>
-    </a>
-    <a href="" style="vertical-align:middle">
-        <img alt="TransForce" style="vertical-align:middle" height="90" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-TransForce.png?raw=true"/>
-    </a>
-</div>
+<table style="margin-right:auto; margin-left:auto;">
+    <tr>
+        <th>
+            <a href="" style="vertical-align:middle">
+                <img alt="Alcalitech" style="vertical-align:middle" height="40" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-Alcalitech.png?raw=true"/>
+            </a>
+        </th>
+        <th>
+            <a href="" style="vertical-align:middle">
+                <img alt="Altair" style="vertical-align:middle" height="20" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-Altair.png?raw=true"/>
+            </a>
+        </th>
+        <th>
+            <a href="" style="vertical-align:middle">
+                <img alt="LBS" style="vertical-align:middle" height="40" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-LBS.png?raw=true"/>
+            </a>
+        </th>
+        <th>
+            <a href="" style="vertical-align:middle">
+                <img alt="LVI" style="vertical-align:middle" height="80" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-LVI.png?raw=true"/>
+            </a>
+        </th>
+        <th>
+            <a href="" style="vertical-align:middle">
+                <img alt="MetalTech" style="vertical-align:middle" height="60" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-MetalTech.png?raw=true"/>
+            </a>
+        </th>
+        <th>
+            <a href="" style="vertical-align:middle">
+                <img alt="TransForce" style="vertical-align:middle" height="90" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-TransForce.png?raw=true"/>
+            </a>
+        </th>
+    </tr>
+</table>
 
 | [Português](#Começo) |  [English](#Start) | 
 
