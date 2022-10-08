@@ -2,7 +2,7 @@
     <a href="https://linktr.ee/Parahybaja"> <img src="https://lh3.googleusercontent.com/pw/AM-JKLWMJOKNarJxC220qQw2AsfqEC9UIzbErJbdNUw0lQllnVErUyWcJSs9mpfIIRHg2ywVQwib02JxWfol37vLfjzoVbF8Wka4qqKxPmDzW6IGdoDC4eAyER1R9UoSzbxaK_tZO1aVdcOu7c5T7ipBg1pjVg=w1204-h401-no?authuser=0" alt="Parahybaja" width="400"/> </a>
 </div>
 
-<table align="center" cellspacing="0" cellpadding="0" style="border:none;">
+<table align="center" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border:none;">
     <tr>
         <th>
             <a href="" style="vertical-align:middle">
