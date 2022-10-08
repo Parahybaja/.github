@@ -3,13 +3,23 @@
 </div>
 
 <div align="center">
-    <a href="">
-        <img alt="Alcalitech" style="vertical-align:middle" height="40" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-Alcalitech.png?raw=true"/>
-        <img alt="Altair" style="vertical-align:middle" height="20" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-Altair.png?raw=true"/>
-        <img alt="LBS" style="vertical-align:middle" height="40" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-LBS.png?raw=true"/>
-        <img alt="LVI" style="vertical-align:middle" height="80" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-LVI.png?raw=true"/>
-        <img alt="MetalTech" style="vertical-align:middle" height="60" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-MetalTech.png?raw=true"/>
-        <img alt="TransForce" style="vertical-align:middle" height="90" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-TransForce.png?raw=true"/>
+    <a href="" style="vertical-align:middle">
+        <img alt="Alcalitech" height="40" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-Alcalitech.png?raw=true"/>
+    </a>
+    <a href="" style="vertical-align:middle">
+        <img alt="Altair" height="20" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-Altair.png?raw=true"/>
+    </a>
+    <a href="" style="vertical-align:middle">
+        <img alt="LBS" height="40" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-LBS.png?raw=true"/>
+    </a>
+    <a href="" style="vertical-align:middle">
+        <img alt="LVI" height="80" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-LVI.png?raw=true"/>
+    </a>
+    <a href="" style="vertical-align:middle">
+        <img alt="MetalTech" height="60" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-MetalTech.png?raw=true"/>
+    </a>
+    <a href="" style="vertical-align:middle">
+        <img alt="TransForce" height="90" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-TransForce.png?raw=true"/>
     </a>
 </div>
 
@@ -20,14 +30,15 @@ A Equipe Parahybaja é formada por alunos dos cursos de Engenharias, Arte e Míd
 
 O projeto Baja é uma oportunidade de colocar em prática o que se aprende na sala de aula. Nossa equipe tem por objetivo final preparar um profissional para o mercado de trabalho, aprendendo a lidar com pressão, prazos e orçamentos e a trabalhar em grupo, além de desenvolver habilidades de liderança e programação. 
 
-
 <div align="center">
     <img src="https://raw.githubusercontent.com/Parahybaja/Parahybaja/77d9427941ecffe60a058138f6ca222c73951981/Fotos/1.jpg" alt="Carro" width="280"/> 
     <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2.jpg?raw=true" alt="Carro" width="300"/> 
     <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/4.jpg?raw=true" alt="Carro" width="280"/>
 </div>
 
-<p align="center"> Universidade Federal de Campina Grande - UFCG - DEM - CCT - Fundada em 1998 </p>
+<p align="center">
+    Universidade Federal de Campina Grande - UFCG - DEM - CCT - Fundada em 1998
+</p>
 
 #### Organização da equipe
 
@@ -127,7 +138,9 @@ The Baja project is an opportunity to put into practice what you learn in the cl
     <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2.jpg?raw=true" alt="Car" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/4.jpg?raw=true" alt="Car" width="280"/>
 </div>
 
-<div align="center"> Universidade Federal de Campina Grande - UFCG - DEM - CCT - Since 1998 </div>
+<div align="center">
+    Universidade Federal de Campina Grande - UFCG - DEM - CCT - Desde 1998
+</div>
 
 #### Team Organization
 
