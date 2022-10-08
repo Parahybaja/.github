@@ -4,22 +4,22 @@
 
 <div align="center">
     <a href="" style="vertical-align:middle">
-        <img alt="Alcalitech" height="40" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-Alcalitech.png?raw=true"/>
+        <img alt="Alcalitech" style="vertical-align:middle" height="40" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-Alcalitech.png?raw=true"/>
     </a>
     <a href="" style="vertical-align:middle">
-        <img alt="Altair" height="20" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-Altair.png?raw=true"/>
+        <img alt="Altair" style="vertical-align:middle" height="20" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-Altair.png?raw=true"/>
     </a>
     <a href="" style="vertical-align:middle">
-        <img alt="LBS" height="40" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-LBS.png?raw=true"/>
+        <img alt="LBS" style="vertical-align:middle" height="40" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-LBS.png?raw=true"/>
     </a>
     <a href="" style="vertical-align:middle">
-        <img alt="LVI" height="80" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-LVI.png?raw=true"/>
+        <img alt="LVI" style="vertical-align:middle" height="80" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-LVI.png?raw=true"/>
     </a>
     <a href="" style="vertical-align:middle">
-        <img alt="MetalTech" height="60" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-MetalTech.png?raw=true"/>
+        <img alt="MetalTech" style="vertical-align:middle" height="60" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-MetalTech.png?raw=true"/>
     </a>
     <a href="" style="vertical-align:middle">
-        <img alt="TransForce" height="90" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-TransForce.png?raw=true"/>
+        <img alt="TransForce" style="vertical-align:middle" height="90" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-TransForce.png?raw=true"/>
     </a>
 </div>
 
