@@ -1,33 +1,73 @@
-<p align="center">
-<a href="https://linktr.ee/Parahybaja"> <img src="https://lh3.googleusercontent.com/pw/AM-JKLWMJOKNarJxC220qQw2AsfqEC9UIzbErJbdNUw0lQllnVErUyWcJSs9mpfIIRHg2ywVQwib02JxWfol37vLfjzoVbF8Wka4qqKxPmDzW6IGdoDC4eAyER1R9UoSzbxaK_tZO1aVdcOu7c5T7ipBg1pjVg=w1204-h401-no?authuser=0" alt="Parahybaja" width="400"/> </a>
-</p>
+<div align="center">
+    <a href="https://linktr.ee/Parahybaja"> <img src="https://lh3.googleusercontent.com/pw/AM-JKLWMJOKNarJxC220qQw2AsfqEC9UIzbErJbdNUw0lQllnVErUyWcJSs9mpfIIRHg2ywVQwib02JxWfol37vLfjzoVbF8Wka4qqKxPmDzW6IGdoDC4eAyER1R9UoSzbxaK_tZO1aVdcOu7c5T7ipBg1pjVg=w1204-h401-no?authuser=0" alt="Parahybaja" width="400"/> </a>
+</div>
+
+<table align="center" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border:none;">
+    <tr>
+        <th>
+            <a href="" style="vertical-align:middle">
+                <img alt="Alcalitech" style="vertical-align:middle" height="40" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-Alcalitech.png?raw=true"/>
+            </a>
+        </th>
+        <th>
+            <a href="" style="vertical-align:middle">
+                <img alt="Altair" style="vertical-align:middle" height="20" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-Altair.png?raw=true"/>
+            </a>
+        </th>
+        <th>
+            <a href="" style="vertical-align:middle">
+                <img alt="LBS" style="vertical-align:middle" height="40" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-LBS.png?raw=true"/>
+            </a>
+        </th>
+        <th>
+            <a href="" style="vertical-align:middle">
+                <img alt="LVI" style="vertical-align:middle" height="80" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-LVI.png?raw=true"/>
+            </a>
+        </th>
+        <th>
+            <a href="" style="vertical-align:middle">
+                <img alt="MetalTech" style="vertical-align:middle" height="60" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-MetalTech.png?raw=true"/>
+            </a>
+        </th>
+        <th>
+            <a href="" style="vertical-align:middle">
+                <img alt="TransForce" style="vertical-align:middle" height="90" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-TransForce.png?raw=true"/>
+            </a>
+        </th>
+    </tr>
+</table>
 
 | [Português](#Começo) |  [English](#Start) | 
-
 
 ### _Equipe de competição Baja SAE_ <a name="Começo"></a>
 A Equipe Parahybaja é formada por alunos dos cursos de Engenharias, Arte e Mídia, Comunicação Social, Física, Matemática e Design, a fim de desenvolver um veículo offroad. 
 
 O projeto Baja é uma oportunidade de colocar em prática o que se aprende na sala de aula. Nossa equipe tem por objetivo final preparar um profissional para o mercado de trabalho, aprendendo a lidar com pressão, prazos e orçamentos e a trabalhar em grupo, além de desenvolver habilidades de liderança e programação. 
 
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/Parahybaja/Parahybaja/77d9427941ecffe60a058138f6ca222c73951981/Fotos/1.jpg" alt="Carro" width="280"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2.jpg?raw=true" alt="Carro" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/4.jpg?raw=true" alt="Carro" width="280"/>
+    <img src="https://raw.githubusercontent.com/Parahybaja/Parahybaja/77d9427941ecffe60a058138f6ca222c73951981/Fotos/1.jpg" alt="Carro" width="280"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2.jpg?raw=true" alt="Carro" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/4.jpg?raw=true" alt="Carro" width="280"/>
 </div>
 
-<div align="center"> Universidade Federal de Campina Grande - UFCG - DEM - CCT - Fundada em 1998 </div>
+<p align="center">
+    Universidade Federal de Campina Grande - UFCG - DEM - CCT - Fundada em 1998
+</p>
 
 #### Organização da equipe
 
 A equipe Parahybaja possui várias divisões buscando trabalhar com o máximo de eficiência e organização possível. Sendo organizada da seguinte maneira: 
 
 <div align="center">
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLVbXsc_YyO3jTM62nc5MgoWyVXshE1hoFW82Tu0CBNfJT2O49NUyln1eRLG6KlyW-QomUxek8HlEtO6mtUoxnN0YsQQfwXo2IsKSbj3bzoI_WRu6GP77DKhStQWpi-uN4WfDkBKRHlIoJ597zRDT6vk=w1068-h627-no?authuser=2" alt="Organizaçao" width="600"/> 
+    <img src="https://lh3.googleusercontent.com/pw/AM-JKLVbXsc_YyO3jTM62nc5MgoWyVXshE1hoFW82Tu0CBNfJT2O49NUyln1eRLG6KlyW-QomUxek8HlEtO6mtUoxnN0YsQQfwXo2IsKSbj3bzoI_WRu6GP77DKhStQWpi-uN4WfDkBKRHlIoJ597zRDT6vk=w1068-h627-no?authuser=2" alt="Organizaçao" width="600"/> 
 </div>
 
 Embora cada subdivisão trabalhe em um sistema do carro ou gerencie setores da equipe distintos, todas comunicam-se e trabalham como unidade para alcançar o melhor veículo offroad.
 
-* Detalhes das subdivisões <a href="https://drive.google.com/u/2/uc?id=1duewFH9A7yE6WEaBLb8GD2-u065czOfV&export=download">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uoaW2Gj9-sI5UEYRHXdvMEwlbTIjrZKJw1VsTw3SyKx7ahQzz9EsrdN-TsbL6mcU_Bo&usqp=CAU" alt="Download" width="30"/>  </a>
+* Detalhes das subdivisões 
+<a href="https://drive.google.com/u/2/uc?id=1duewFH9A7yE6WEaBLb8GD2-u065czOfV&export=download">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uoaW2Gj9-sI5UEYRHXdvMEwlbTIjrZKJw1VsTw3SyKx7ahQzz9EsrdN-TsbL6mcU_Bo&usqp=CAU" alt="Download" width="30"/>  
+</a>
 
 ### Premiações
 
@@ -59,7 +99,20 @@ Embora cada subdivisão trabalhe em um sistema do carro ou gerencie setores da e
 ### Ao longo dos anos
 
 <div align="center">
-<img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/1998.jpg?raw=true" alt="1998" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/1999.jpg?raw=true" alt="1999" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2001.jpg?raw=true" alt="2001" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2003.jpg?raw=true" alt="2003" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2010.jpg?raw=true" alt="2010" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2011.jpg?raw=true" alt="2011" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2012.jpg?raw=true" alt="2012" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2013.jpg?raw=true" alt="2013" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2014.jpg?raw=true" alt="2014" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2015.jpg?raw=true" alt="2015" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2016.jpg?raw=true" alt="2016" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2017.jpg?raw=true" alt="2017" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2018.jpg?raw=true" alt="2018" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2019.jpg?raw=true" alt="2019" width="300"/>
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/1998.jpg?raw=true" alt="1998" width="300"/>
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/1999.jpg?raw=true" alt="1999" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2001.jpg?raw=true" alt="2001" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2003.jpg?raw=true" alt="2003" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2010.jpg?raw=true" alt="2010" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2011.jpg?raw=true" alt="2011" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2012.jpg?raw=true" alt="2012" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2013.jpg?raw=true" alt="2013" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2014.jpg?raw=true" alt="2014" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2015.jpg?raw=true" alt="2015" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2016.jpg?raw=true" alt="2016" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2017.jpg?raw=true" alt="2017" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2018.jpg?raw=true" alt="2018" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2019.jpg?raw=true" alt="2019" width="300"/>
 </div>
 
 ### Nos Patrocine
@@ -80,22 +133,12 @@ Ao apoiar a equipe Parahybaja, sua empresa contribui para o sucesso de uma inici
 | CAPACETE DO <br> PILOTO | Possui | ------ | ------ | ------ |
 | MINI CURSOS | Possui | ------ | ------ | ------ |
 
-##### PLANO DE PATROCÍNIO  <a href="https://drive.google.com/u/2/uc?id=1bxmxD9ta8DZJhteBp1yFFhETQG6rBJTF&export=download">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uoaW2Gj9-sI5UEYRHXdvMEwlbTIjrZKJw1VsTw3SyKx7ahQzz9EsrdN-TsbL6mcU_Bo&usqp=CAU" alt="Download" width="30"/>  </a>
+##### PLANO DE PATROCÍNIO <a href="https://drive.google.com/u/2/uc?id=1bxmxD9ta8DZJhteBp1yFFhETQG6rBJTF&export=download"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uoaW2Gj9-sI5UEYRHXdvMEwlbTIjrZKJw1VsTw3SyKx7ahQzz9EsrdN-TsbL6mcU_Bo&usqp=CAU" alt="Download" width="30"/> </a>
 
 <br>
 
-### Faça parte: <a href="https://forms.gle/uxA2tCC4478BsScU7"> <img src="https://img.shields.io/website?color=red&label=Parahybaja&up_color=blue&url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSctrxmrLygV0YfjVgM85p3ypkagVPY6Xdih4fTVbhVel9JhrA%2Fviewform" alt="Processo Seletivo" width="100"/>  </a>
+### Faça parte: <a href="https://forms.gle/uxA2tCC4478BsScU7"> <img src="https://img.shields.io/website?color=red&label=Parahybaja&up_color=blue&url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSctrxmrLygV0YfjVgM85p3ypkagVPY6Xdih4fTVbhVel9JhrA%2Fviewform" alt="Processo Seletivo" width="100"/> </a>
 
-
-
-### Patrocinadores
-
-<a href="https://linktr.ee/tekbond"> <img src="https://www.tekbond.com.br/sites/tekbond.com.br/themes/custom/tekbond_v1/images/teckbond/sistema/logo-tekbond-linha-artesanato.svg" alt="LogoTekbond" width="300"/> </a> </h3> <a href="https://www.facebook.com/pmacursoseconsultoria/"> <img src="https://scontent.fcpv2-2.fna.fbcdn.net/v/t1.6435-9/75627296_128016161944940_6586374147037724672_n.png?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE8E-jbpQKzg_yoKxkU84sJFgVGNmwUu04WBUY2bBS7TsODA0optRXdxuP5dA2vgTi2iU9IJkin_nFC7Y5RO9OX&_nc_ohc=5-1FvvLXg1gAX-6T7W_&tn=8YPGN8v773IPi5po&_nc_ht=scontent.fcpv2-2.fna&oh=00_AT8kpMEp_iAwVLEpW-VBnIcMChrY3APtQEHQH-1f65kdYQ&oe=62CACEF0" alt="PMA" width="250"/> </a> </h3> <a href="https://www.transforce.com"> <img src="https://mma.prnewswire.com/media/623992/TransForce_Logo.jpg?p=twitter" alt="Transforce" width="300"/> </a> </h3>
-
-<br> 
-<br> 
-<br>
-<br>
 <br>
 
 ### _Competition Team Baja SAE_ <a name="Start"></a>
@@ -105,17 +148,20 @@ The Team Parahybaja is formed by students of Engineering, Art and Media, Social 
 The Baja project is an opportunity to put into practice what you learn in the classroom. Our team's ultimate goal is to prepare a professional for the job market, learning to deal with pressure, deadlines and budgets and to work in a group, in addition to developing leadership and programming skills.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Parahybaja/Parahybaja/77d9427941ecffe60a058138f6ca222c73951981/Fotos/1.jpg" alt="Car" width="280"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2.jpg?raw=true" alt="Car" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/4.jpg?raw=true" alt="Car" width="280"/>
+    <img src="https://raw.githubusercontent.com/Parahybaja/Parahybaja/77d9427941ecffe60a058138f6ca222c73951981/Fotos/1.jpg" alt="Car" width="280"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2.jpg?raw=true" alt="Car" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/4.jpg?raw=true" alt="Car" width="280"/>
 </div>
 
-<div align="center"> Universidade Federal de Campina Grande - UFCG - DEM - CCT - Since 1998 </div>
+<div align="center">
+    Universidade Federal de Campina Grande - UFCG - DEM - CCT - Desde 1998
+</div>
 
 #### Team Organization
 
 The Parahybaja team has several divisions seeking to work as efficiently and organized as possible. Its organized as followed:
 
 <div align="center">
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLVQ1I1QBTc8CF7v47T1qT9cxWDVVOHhXdqGxj3Y48H0NxLevASnDN5haBFaSSyvmB42hrrph_WFhzOnSqG7mwRsQns1fDA_SfrzkYGWF8ENn-VeHlbd-Yc_5nL9Jqgdvgqxdzh_kciH4oBVL88_HyIT=w1068-h627-no?authuser=2" alt="Organization" width="600"/> 
+    <img src="https://lh3.googleusercontent.com/pw/AM-JKLVQ1I1QBTc8CF7v47T1qT9cxWDVVOHhXdqGxj3Y48H0NxLevASnDN5haBFaSSyvmB42hrrph_WFhzOnSqG7mwRsQns1fDA_SfrzkYGWF8ENn-VeHlbd-Yc_5nL9Jqgdvgqxdzh_kciH4oBVL88_HyIT=w1068-h627-no?authuser=2" alt="Organization" width="600"/> 
 </div>
 
 Despite each subdivision working on a different part of the car or managing different sectors, they all communicate and work as a unit to achieve the best offroad vehicle.
@@ -152,9 +198,21 @@ Despite each subdivision working on a different part of the car or managing diff
 ### Along the years
 
 <div align="center">
-<img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/1998.jpg?raw=true" alt="1998" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/1999.jpg?raw=true" alt="1999" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2001.jpg?raw=true" alt="2001" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2003.jpg?raw=true" alt="2003" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2010.jpg?raw=true" alt="2010" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2011.jpg?raw=true" alt="2011" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2012.jpg?raw=true" alt="2012" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2013.jpg?raw=true" alt="2013" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2014.jpg?raw=true" alt="2014" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2015.jpg?raw=true" alt="2015" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2016.jpg?raw=true" alt="2016" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2017.jpg?raw=true" alt="2017" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2018.jpg?raw=true" alt="2018" width="300"/> <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2019.jpg?raw=true" alt="2019" width="300"/>
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/1998.jpg?raw=true" alt="1998" width="300"/>
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/1999.jpg?raw=true" alt="1999" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2001.jpg?raw=true" alt="2001" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2003.jpg?raw=true" alt="2003" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2010.jpg?raw=true" alt="2010" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2011.jpg?raw=true" alt="2011" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2012.jpg?raw=true" alt="2012" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2013.jpg?raw=true" alt="2013" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2014.jpg?raw=true" alt="2014" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2015.jpg?raw=true" alt="2015" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2016.jpg?raw=true" alt="2016" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2017.jpg?raw=true" alt="2017" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2018.jpg?raw=true" alt="2018" width="300"/> 
+    <img src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/2019.jpg?raw=true" alt="2019" width="300"/>
 </div>
-
 
 ### Sponsor Us
 
@@ -174,14 +232,8 @@ By supporting Parahybaja team your company can help in the success of an initiat
 | PILOT HELMET | Have | ------ | ------ | ------ |
 | MINI COURSES | Have | ------ | ------ | ------ |
 
-#### SPONSORSHIP PLAN  <a href="https://drive.google.com/u/2/uc?id=1bxmxD9ta8DZJhteBp1yFFhETQG6rBJTF&export=download">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uoaW2Gj9-sI5UEYRHXdvMEwlbTIjrZKJw1VsTw3SyKx7ahQzz9EsrdN-TsbL6mcU_Bo&usqp=CAU" alt="Download" width="30"/>  </a>
+#### SPONSORSHIP PLAN <a href="https://drive.google.com/u/2/uc?id=1bxmxD9ta8DZJhteBp1yFFhETQG6rBJTF&export=download">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uoaW2Gj9-sI5UEYRHXdvMEwlbTIjrZKJw1VsTw3SyKx7ahQzz9EsrdN-TsbL6mcU_Bo&usqp=CAU" alt="Download" width="30"/>  </a>
 
 <br>
 
-### Join us: <a href="https://forms.gle/uxA2tCC4478BsScU7"> <img src="https://img.shields.io/website?color=red&label=Parahybaja&up_color=blue&url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSctrxmrLygV0YfjVgM85p3ypkagVPY6Xdih4fTVbhVel9JhrA%2Fviewform"  alt="Seletive Process" width="100"/>  </a>
-
-### Sponsors
-
-
-<a href="https://linktr.ee/tekbond"> <img src="https://www.tekbond.com.br/sites/tekbond.com.br/themes/custom/tekbond_v1/images/teckbond/sistema/logo-tekbond-linha-artesanato.svg" alt="LogoTekbond" width="300"/> </a> </h3> <a href="https://www.facebook.com/pmacursoseconsultoria/"> <img src="https://scontent.fcpv2-2.fna.fbcdn.net/v/t1.6435-9/75627296_128016161944940_6586374147037724672_n.png?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE8E-jbpQKzg_yoKxkU84sJFgVGNmwUu04WBUY2bBS7TsODA0optRXdxuP5dA2vgTi2iU9IJkin_nFC7Y5RO9OX&_nc_ohc=5-1FvvLXg1gAX-6T7W_&tn=8YPGN8v773IPi5po&_nc_ht=scontent.fcpv2-2.fna&oh=00_AT8kpMEp_iAwVLEpW-VBnIcMChrY3APtQEHQH-1f65kdYQ&oe=62CACEF0" alt="PMA" width="250"/> </a> </h3> <a href="https://www.transforce.com"> <img src="https://mma.prnewswire.com/media/623992/TransForce_Logo.jpg?p=twitter" alt="Transforce" width="300"/> </a> </h3>
-
+### Join us: <a href="https://forms.gle/uxA2tCC4478BsScU7"> <img src="https://img.shields.io/website?color=red&label=Parahybaja&up_color=blue&url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSctrxmrLygV0YfjVgM85p3ypkagVPY6Xdih4fTVbhVel9JhrA%2Fviewform"  alt="Seletive Process" width="100"/> </a>
