@@ -34,6 +34,11 @@
                 <img alt="TransForce" style="vertical-align:middle" height="90" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/logo-TransForce.png?raw=true"/>
             </a>
         </th>
+        <th>
+            <a href="" style="vertical-align:middle">
+                <img alt="Voltriz" style="vertical-align:middle" height="40" src="https://github.com/Parahybaja/Parahybaja/blob/main/Fotos/Logo-Voltriz.png?raw=true"/>
+            </a>
+        </th>
     </tr>
 </table>
 
