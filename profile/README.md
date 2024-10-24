@@ -100,9 +100,9 @@ Embora cada subdivisão trabalhe em um sistema do carro ou gerencie setores da e
 | 2019 | 14º Competição Baja SAE Nordeste | 12º Lugar entre 22 equipes |
 | 2019 | 25° Competição Baja SAE Brasil | 21º Lugar entre 87 equipes <br> 3º Lugar Tração |
 | 2020 | 26ª Competição Baja SAE Brasil | 23º Lugar entre 79 equipes <br> 6º Lugar Enduro |
-| 2023 | 28ª Competição Baja SAE Brasil | 14º Lugar entre 79 equipes <br> 7º Lugar Enduro |
-| 2023 | 16ª Competição Baja SAE Nordeste | 2º Lugar entre 14 equipes <br> 2º Lugar Enduro <br> 2º Aceleração <br> 2º Suspensão <br> 1º velocidade <br> 1º APD <br> 1º Superprime <br> 1º manobrabilidade|
-| 2024 | 17ª Competição Baja SAE Nordeste | 4º Lugar entre 17 equipes <br> 3º Suspensão <br> 1º APD <br> 2º manobrabilidade <br> 2º Geral de Projetos |
+| 2023 | 28ª Competição Baja SAE Brasil | 14º Lugar entre 79 equipes <br> 7º Lugar Enduro <br> 2º Apresentação de Projeto Dinâmico |
+| 2023 | 16ª Competição Baja SAE Nordeste | 2º Lugar entre 14 equipes <br> 2º Lugar Enduro <br> 2º Aceleração <br> 2º Suspensão <br> 1º velocidade <br> 1º Avaliação Dinâmica de Projeto <br> 1º Superprime <br> 1º manobrabilidade|
+| 2024 | 17ª Competição Baja SAE Nordeste | 4º Lugar entre 17 equipes <br> 3º Suspensão <br> 1º Avaliação Dinâmica de Projeto <br> 2º manobrabilidade <br> 2º Geral de Projetos |
 
 
 ### Ao longo dos anos
